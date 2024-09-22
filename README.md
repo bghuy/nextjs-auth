@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-# create neon database with postgres
+# create neon database with postgres on neon.tech
 # npm install
 # run npx prisma generate
 # run npx prisma db push
